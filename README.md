@@ -80,7 +80,7 @@ Absolute error $|u_\text{FD} - u_\text{PINN}|$:
 ```bash
 pip install -r requirements.txt
 python experiments/compare_methods.py
-
+```
 
 ## Run individual experiments
 
