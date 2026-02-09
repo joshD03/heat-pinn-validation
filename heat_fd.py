@@ -83,7 +83,3 @@ class HeatSolverFD:
         """
         X, T_ = np.meshgrid(self.x, self.t)
         return np.sin(np.pi * X) * np.exp(-self.alpha * np.pi ** 2 * T_)
-
-
-git config --global user.email "j.das191003@gmail.com"
-git config --global user.name "joshD03"
