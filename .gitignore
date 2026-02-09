@@ -7,8 +7,6 @@ build/
 .eggs/
 *.pt
 *.pth
-plots/*.png
-plots/*.gif
 .ipynb_checkpoints/
 .venv/
 env/
